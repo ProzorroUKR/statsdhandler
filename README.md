@@ -1,5 +1,5 @@
-[![Coverage Status](https://coveralls.io/repos/github/openprocurement/statsdhandler/badge.svg)](https://coveralls.io/github/openprocurement/statsdhandler)
-[![Build Status](https://travis-ci.org/openprocurement/statsdhandler.svg?branch=master)](https://travis-ci.org/openprocurement/statsdhandler)
+[![Coverage Status](https://coveralls.io/repos/github/ProzorroUKR/statsdhandler/badge.svg?branch=master)](https://coveralls.io/github/ProzorroUKR/statsdhandler?branch=master)
+[![Build Status](https://travis-ci.org/ProzorroUKR/statsdhandler.svg?branch=master)](https://travis-ci.org/ProzorroUKR/statsdhandler)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # StatsdHandler
 
